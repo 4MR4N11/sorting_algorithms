@@ -19,10 +19,10 @@ This project is about sorting algorithms and Big O notations.
 - [print_list.c](print_list.c) - Function that prints a list of integers.
 
 - [0-bubble_sort.c](0-bubble_sort.c) - Bubble sort algorithm.
-- [0-O](0-O) - Time complexity of bubble sort algorithm.
+	- [0-O](0-O) - Time complexity of bubble sort algorithm.
 
 - [1-insertion_sort_list.c](1-insertion_sort_list.c) - Insertion sort algorithm.
-- [1-O](1-O) - Time complexity of insertion sort algorithm.
+	- [1-O](1-O) - Time complexity of insertion sort algorithm.
 
 - [2-selection_sort.c](2-selection_sort.c) - Selection sort algorithm.
-- [2-O](2-O) - Time complexity of selection sort algorithm.
+	- [2-O](2-O) - Time complexity of selection sort algorithm.
