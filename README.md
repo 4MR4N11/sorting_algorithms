@@ -26,3 +26,6 @@ This project is about sorting algorithms and Big O notations.
 
 - [2-selection_sort.c](2-selection_sort.c) - Selection sort algorithm.
 	- [2-O](2-O) - Time complexity of selection sort algorithm.
+
+- [3-quick_sort.c](3-quick_sort.c) - Quick sort algorithm.
+	- [3-O](3-O) - Time complexity of quick sort algorithm.
